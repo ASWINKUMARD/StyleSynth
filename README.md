@@ -46,3 +46,8 @@ Classes include:
 
 - Bags 🎒
 
+### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
